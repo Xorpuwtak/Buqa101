@@ -1,0 +1,14 @@
+# Python program to calculate One Piece heroes
+
+# List of One Piece heroes (protagonists)
+one_piece_heroes = [
+    'Monkey D. Luffy', 'Roronoa Zoro', 'Nami', 'Usopp', 'Sanji',
+    'Tony Tony Chopper', 'Nico Robin', 'Franky', 'Brook', 'Jinbe',
+    'Portgas D. Ace', 'Trafalgar D. Water Law', 'Koby', 'Gol D. Roger'
+]
+
+# Calculate the number of heroes
+number_of_heroes = len(one_piece_heroes)
+
+# Display the result
+print(f"There are {number_of_heroes} heroes in One Piece.")
